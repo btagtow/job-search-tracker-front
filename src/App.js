@@ -1,4 +1,6 @@
 import './App.css';
+import jobs from './components/jobs'
+
 
 function App() {
   return (
